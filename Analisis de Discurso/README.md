@@ -1,4 +1,4 @@
-## Introduc
+## Introducción
 
 [Click aquí para ver el Colab Notebook](https://colab.research.google.com/drive/1JZ4KNNkuTJkueoyC2S5HEqnn1gzATVTd?authuser=2)
 
